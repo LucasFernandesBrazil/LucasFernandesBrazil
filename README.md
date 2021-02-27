@@ -18,8 +18,9 @@
 <img src="https://img.shields.io/static/v1?label=CSS3&message=Style Sheet Language&color=yellow&style=for-the-badge&logo=CSS3"/>
 <img src="https://img.shields.io/static/v1?label=LUA&message=Language&color=blue&style=for-the-badge&logo=LUA"/>
 
-
-
+### Analytics
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark)
 
 
 
