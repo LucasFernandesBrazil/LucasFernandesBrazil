@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/static/v1?label=java&message=Language&color=blue&style=for-the-badge&logo=JAVA"/>
 <img src="https://img.shields.io/static/v1?label=PHP&message=Language&color=blue&style=for-the-badge&logo=PHP"/>
 <img src="https://img.shields.io/static/v1?label=Python&message=Language&color=blue&style=for-the-badge&logo=PYTHON"/>
+<img src="https://img.shields.io/static/v1?label=javascript&message=Language&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
 <img src="https://img.shields.io/static/v1?label=LUA&message=Language&color=blue&style=for-the-badge&logo=LUA"/>
 <img src="https://img.shields.io/static/v1?label=MYSQL&message=DataBase&color=brown&style=for-the-badge&logo=MYSQL"/>
 <img src="https://img.shields.io/static/v1?label=HTML5&message=Markup_Language&color=orange&style=for-the-badge&logo=HTML5"/>
