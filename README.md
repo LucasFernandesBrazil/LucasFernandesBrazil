@@ -1,11 +1,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandesprogrammer/)
-[<img src="https://img.shields.io/github/followers/LucasFernandesBrazil?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LucasFernandesBrazil) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lucasfernandesprogrammer@gmail.com)
 
 
 
 ### Oi, eu sou o Lucas 👋
-
 
 - :computer: Atualmente estou cursando Sistemas de Informação
 - :blue_book: Desenvolvedor Full Stack em formação
@@ -25,5 +23,5 @@
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark)
 
-![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
 
