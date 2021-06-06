@@ -3,7 +3,7 @@
 
 
 
-### Oi, eu sou o Lucas 👋
+### Olá, eu sou o Lucas 👋
 
 - :computer: Atualmente estou cursando Sistemas de Informação
 - :blue_book: Desenvolvedor Full Stack em formação
