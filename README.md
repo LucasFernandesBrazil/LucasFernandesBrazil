@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/static/v1?label=BOOTSTRAP&message=Framework&color=purple&style=for-the-badge&logo=BOOTSTRAP"/>
 <img src="https://img.shields.io/static/v1?label=GIT&message=VERSIONING&color=orange&style=for-the-badge&logo=GIT"/>
 
+<hr>
+
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark)
 
