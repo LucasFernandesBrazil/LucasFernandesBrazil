@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/static/v1?label=VUE.JS&message=Framework&color=purple&style=for-the-badge&logo=VUE.JS"/>
 <img src="https://img.shields.io/static/v1?label=BOOTSTRAP&message=Framework&color=purple&style=for-the-badge&logo=BOOTSTRAP"/>
 <img src="https://img.shields.io/static/v1?label=GIT&message=VERSIONING&color=orange&style=for-the-badge&logo=GIT"/>
-<img src="https://img.shields.io/static/v1?label=FIGMA&message=Design/UX&color=green&style=for-the-badge&logo=FIGMA"/>
-<img src="https://img.shields.io/static/v1?label=ADOBEXD&message=Design/UX&color=green&style=for-the-badge&logo=ADOBEXD"/>
+<img src="https://img.shields.io/static/v1?label=FIGMA&message=Design/UX&color=20b2aa&style=for-the-badge&logo=FIGMA"/>
+<img src="https://img.shields.io/static/v1?label=ADOBEXD&message=Design/UX&color=20b2aa&style=for-the-badge&logo=ADOBEXD"/>
 
 <hr>
 
