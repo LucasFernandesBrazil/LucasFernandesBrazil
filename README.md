@@ -5,7 +5,7 @@
 
 ### Olá, eu sou o Lucas 👋
 
-- :computer: Atualmente estou cursando Sistemas de Informação
+- :computer: Cursando Sistemas de Informação
 - :blue_book: Desenvolvedor FrontEnd em constante aprendizado
 - :metal: Gosto de compartilhar meus códigos para ajudar a comunidade
 - :bulb: Algumas das tecnologias que eu trabalho:
