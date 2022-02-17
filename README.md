@@ -12,6 +12,7 @@
 
 <span><img src="https://img.shields.io/static/v1?label=java&message=Language&color=blue&style=for-the-badge&logo=JAVA"/></span>
 <img src="https://img.shields.io/static/v1?label=Python&message=Language&color=blue&style=for-the-badge&logo=PYTHON"/>
+<img src="https://img.shields.io/static/v1?label=Kotlin&message=Language&color=blue&style=for-the-badge&logo=KOTLIN"/>
 <img src="https://img.shields.io/static/v1?label=javascript&message=Language&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
 <img src="https://img.shields.io/static/v1?label=LUA&message=Language&color=blue&style=for-the-badge&logo=LUA"/>
 <img src="https://img.shields.io/static/v1?label=MYSQL&message=DataBase&color=brown&style=for-the-badge&logo=MYSQL"/>
