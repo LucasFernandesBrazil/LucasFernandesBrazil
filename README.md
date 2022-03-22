@@ -6,7 +6,7 @@
 ### Olá, eu sou o Lucas 👋
 
 - :computer: Cursando Sistemas de Informação
-- :blue_book: Desenvolvedor Full Stack júnior
+- :blue_book: Desenvolvedor Full Stack
 - :metal: Gosto de compartilhar meus códigos para ajudar a comunidade
 - :bulb: Algumas das tecnologias que eu trabalho:
 
