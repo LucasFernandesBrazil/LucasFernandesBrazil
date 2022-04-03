@@ -30,8 +30,10 @@
 
 <hr>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark)
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark" />
+</div>
 
 <hr>
 
