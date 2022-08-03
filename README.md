@@ -39,8 +39,3 @@
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark" />
 </div>
-
-<hr>
-
-![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
-
