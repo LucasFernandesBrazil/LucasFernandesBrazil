@@ -10,30 +10,33 @@
 - :metal: Gosto de compartilhar meus códigos para ajudar a comunidade
 - :bulb: Algumas das tecnologias que eu trabalho:
 
-<span><img src="https://img.shields.io/static/v1?label=java&message=Language&color=blue&style=for-the-badge&logo=JAVA"/></span>
-<span><img src="https://img.shields.io/static/v1?label=ASP.NET&message=Language&color=blue&style=for-the-badge&logo=ASP.NET"/></span>
-<img src="https://img.shields.io/static/v1?label=Python&message=Language&color=blue&style=for-the-badge&logo=PYTHON"/>
-<img src="https://img.shields.io/static/v1?label=Kotlin&message=Language&color=blue&style=for-the-badge&logo=KOTLIN"/>
-<img src="https://img.shields.io/static/v1?label=javascript&message=Language&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
-<img src="https://img.shields.io/static/v1?label=LUA&message=Language&color=blue&style=for-the-badge&logo=LUA"/>
-<img src="https://img.shields.io/static/v1?label=MYSQL&message=DataBase&color=brown&style=for-the-badge&logo=MYSQL"/>
-<img src="https://img.shields.io/static/v1?label=HTML5&message=Markup_Language&color=orange&style=for-the-badge&logo=HTML5"/>
-<img src="https://img.shields.io/static/v1?label=CSS3&message=Style_Sheet_Language&color=yellow&style=for-the-badge&logo=CSS3"/>
-<span><img src="https://img.shields.io/static/v1?label=.NET&message=Framework&color=purple&style=for-the-badge&logo=.NET"/></span>
-<img src="https://img.shields.io/static/v1?label=BOOTSTRAP&message=Framework&color=purple&style=for-the-badge&logo=BOOTSTRAP"/>
-<img src="https://img.shields.io/static/v1?label=ANGULAR&message=Framework&color=purple&style=for-the-badge&logo=ANGULAR"/>
-<img src="https://img.shields.io/static/v1?label=REACT&message=Framework&color=purple&style=for-the-badge&logo=REACT"/>
-<img src="https://img.shields.io/static/v1?label=REACT NATIVE&message=Framework&color=purple&style=for-the-badge&logo=REACT"/>
-<img src="https://img.shields.io/static/v1?label=GIT&message=VERSIONING&color=orange&style=for-the-badge&logo=GIT"/>
-<img src="https://img.shields.io/static/v1?label=SWIPER&message=API&color=green&style=for-the-badge&logo=SWIPER"/>
-<img src="https://img.shields.io/static/v1?label=UBUNTU&message=SYSTEM&color=black&style=for-the-badge&logo=UBUNTU"/>
-<img src="https://img.shields.io/static/v1?label=FIGMA&message=Design/UX&color=20b2aa&style=for-the-badge&logo=FIGMA"/>
-<img src="https://img.shields.io/static/v1?label=ADOBEXD&message=Design/UX&color=20b2aa&style=for-the-badge&logo=ADOBEXD"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/angularjs-%2320232a.svg?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/ubuntu-%2320232a.svg?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/windows-%2320232a.svg?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/adobexd-%2320232a.svg?style=for-the-badge&logo=adobexd&logoColor=white">
+<div>
 
 <hr>
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFernandesBrazil&layout=compact&count_private=true&theme=chartreuse-dark" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark" />
 </div>
 
