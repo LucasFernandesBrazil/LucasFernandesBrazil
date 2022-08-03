@@ -11,6 +11,7 @@
 - :bulb: Algumas das tecnologias que eu trabalho:
 
 <span><img src="https://img.shields.io/static/v1?label=java&message=Language&color=blue&style=for-the-badge&logo=JAVA"/></span>
+<span><img src="https://img.shields.io/static/v1?label=ASP.NET&message=Language&color=blue&style=for-the-badge&logo=ASP.NET"/></span>
 <img src="https://img.shields.io/static/v1?label=Python&message=Language&color=blue&style=for-the-badge&logo=PYTHON"/>
 <img src="https://img.shields.io/static/v1?label=Kotlin&message=Language&color=blue&style=for-the-badge&logo=KOTLIN"/>
 <img src="https://img.shields.io/static/v1?label=javascript&message=Language&color=blue&style=for-the-badge&logo=JAVASCRIPT"/>
@@ -18,6 +19,7 @@
 <img src="https://img.shields.io/static/v1?label=MYSQL&message=DataBase&color=brown&style=for-the-badge&logo=MYSQL"/>
 <img src="https://img.shields.io/static/v1?label=HTML5&message=Markup_Language&color=orange&style=for-the-badge&logo=HTML5"/>
 <img src="https://img.shields.io/static/v1?label=CSS3&message=Style_Sheet_Language&color=yellow&style=for-the-badge&logo=CSS3"/>
+<span><img src="https://img.shields.io/static/v1?label=.NET&message=Framework&color=purple&style=for-the-badge&logo=.NET"/></span>
 <img src="https://img.shields.io/static/v1?label=BOOTSTRAP&message=Framework&color=purple&style=for-the-badge&logo=BOOTSTRAP"/>
 <img src="https://img.shields.io/static/v1?label=ANGULAR&message=Framework&color=purple&style=for-the-badge&logo=ANGULAR"/>
 <img src="https://img.shields.io/static/v1?label=REACT&message=Framework&color=purple&style=for-the-badge&logo=REACT"/>
