@@ -33,9 +33,3 @@
   <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/adobexd-%2320232a.svg?style=for-the-badge&logo=adobexd&logoColor=white">
 <div>
-
-<hr>
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&show_icons=true&theme=chartreuse-dark" />
-</div>
