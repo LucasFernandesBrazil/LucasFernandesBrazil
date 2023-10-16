@@ -3,12 +3,12 @@
 
 
 
-### Olá, eu sou o Lucas 👋
+### Hello, I'm Lucas 👋
 
-- :computer: Cursando Sistemas de Informação
-- :blue_book: Desenvolvedor Full Stack
-- :metal: Gosto de compartilhar meus códigos para ajudar a comunidade
-- :bulb: Algumas das tecnologias que eu trabalho:
+- :computer: Studying Information Systems
+- :blue_book: Full Stack Developer
+- :metal: I like supporting open source communities
+- :bulb: Some of the technologies I work on:
 
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
