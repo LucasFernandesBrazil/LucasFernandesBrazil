@@ -3,7 +3,7 @@
 
 
 
-### Hello, I'm Lucas 👋
+### Hello, I'm Lucas! 👋
 
 - :computer: Studying Information Systems
 - :blue_book: Full Stack Developer
