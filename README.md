@@ -5,7 +5,7 @@
 
 ### Hello, I'm Lucas! 👋
 
-- :computer: Studying Information Systems
+- :computer: Graduated in Information Systems
 - :blue_book: Full Stack Developer
 - :metal: I like supporting open source communities
 
