@@ -14,9 +14,9 @@
 import Developer from "LucasFernandes";
 
 class AboutMe extends Developer {
-  nome = "Lucas Fernandes";
+  name = "Lucas Fernandes";
   area = "Full Stack Developer";
-  trabalho = "Nexo Solution";
+  work = "Nexo Solution";
   local = "Brazil";
 }
 
