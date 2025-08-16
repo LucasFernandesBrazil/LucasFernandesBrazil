@@ -1,0 +1,20 @@
+name: metrics
+on:
+  schedule:
+    - cron: "0 * * * *"   # de hora em hora (mínimo confiável no GitHub é ~5 min)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: LucasFernandesBrazil
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full
+          plugin_languages: yes
