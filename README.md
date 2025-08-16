@@ -59,6 +59,8 @@
 
 ## 📊 GitHub Stats
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFernandesBrazil&theme=dark&hide_border=false" height="180" alt="GitHub Streak"/>
