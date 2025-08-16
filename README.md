@@ -59,7 +59,9 @@
 
 ## 📊 GitHub Stats
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center" >
+	![](./profile-3d-contrib/profile-night-rainbow.svg)
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
