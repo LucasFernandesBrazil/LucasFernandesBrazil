@@ -66,7 +66,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFernandesBrazil&theme=dark&hide_border=false" height="180" alt="GitHub Streak"/>
-  <img src="./metrics.svg" alt="Metrics" height="180"/>
 </div>
 
 ---
