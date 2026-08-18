@@ -50,7 +50,7 @@ $ tempo_ativo
 
 ---
 
-## `01 //` FEATURED PROJECT
+## FEATURED PROJECT
 
 <div align="center">
 
@@ -115,7 +115,7 @@ $ clipark --sobre
 
 ---
 
-## `02 //` CONNECT
+## CONNECT
 
 <div align="center">
 
@@ -127,7 +127,7 @@ $ clipark --sobre
 
 ---
 
-## `03 //` STACK MODULES
+## STACK MODULES
 
 ```console
 $ ls -la /usr/lib/lucas/
@@ -196,20 +196,7 @@ drwxr-xr-x  devops/       drwxr-xr-x  testing/
 
 ---
 
-## `04 //` SYSTEM DIAGNOSTICS
-
-<div align="center">
-
-<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFernandesBrazil&theme=github_dark" alt="profile summary"/>
-
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFernandesBrazil&theme=github_dark" alt="stats"/>
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasFernandesBrazil&theme=github_dark&utcOffset=-3" alt="productive time"/>
-
-</div>
-
----
-
-## `05 //` ACTIVITY LOG
+## ACTIVITY LOG
 
 <div align="center">
 
