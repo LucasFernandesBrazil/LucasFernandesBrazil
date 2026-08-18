@@ -22,7 +22,7 @@ $ cat ~/.profile
   degree   : B.Sc. Information Systems
   focus    : scalable web apps · clean architecture · DX
   mindset  : open source enthusiast & community supporter
-  status   : building, breaking, shipping — repeat
+  status   : building, evolving, shipping — and repeating
 
 $ uptime
 > still online. still learning.
@@ -40,7 +40,7 @@ $ cat ~/.perfil
   formação : Bacharel em Sistemas de Informação
   foco     : aplicações web escaláveis · arquitetura limpa · DX
   postura  : entusiasta de open source e apoiador da comunidade
-  status   : construindo, quebrando, entregando — e repetindo
+  status   : construindo, evoluindo, entregando — e repetindo
 
 $ tempo_ativo
 > ainda online. ainda aprendendo.
