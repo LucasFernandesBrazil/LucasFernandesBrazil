@@ -50,7 +50,72 @@ $ tempo_ativo
 
 ---
 
-## `01 //` CONNECT
+## `01 //` FEATURED PROJECT
+
+<div align="center">
+
+<a href="https://github.com/LucasFernandesBrazil/ClipArk">
+<img width="94%" src="https://raw.githubusercontent.com/LucasFernandesBrazil/ClipArk/main/docs/assets/hero-dark.png" alt="ClipArk — local-first clipboard manager for macOS"/>
+</a>
+
+[![Release](https://img.shields.io/github/v/release/LucasFernandesBrazil/ClipArk?style=flat-square&label=RELEASE&labelColor=0D1117&color=00FF41)](https://github.com/LucasFernandesBrazil/ClipArk/releases/latest)
+[![Stars](https://img.shields.io/github/stars/LucasFernandesBrazil/ClipArk?style=flat-square&label=STARS&labelColor=0D1117&color=00FF41)](https://github.com/LucasFernandesBrazil/ClipArk/stargazers)
+[![Licence](https://img.shields.io/github/license/LucasFernandesBrazil/ClipArk?style=flat-square&label=LICENCE&labelColor=0D1117&color=00FF41)](https://github.com/LucasFernandesBrazil/ClipArk/blob/main/LICENSE)
+![Platform](https://img.shields.io/badge/PLATFORM-macOS%2011%2B-0D1117?style=flat-square&labelColor=0D1117&color=00FF41)
+
+![Tauri](https://img.shields.io/badge/Tauri%202-0D1117?style=flat-square&logo=tauri&logoColor=FFC131&labelColor=0D1117)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=DEA584&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=0D1117)
+
+</div>
+
+```console
+$ clipark --about
+> ClipArk — a local-first clipboard manager for macOS.
+
+  macOS remembers exactly one thing you copied. ClipArk keeps the rest:
+  hit ⌘⇧V and everything is back — searchable, typed and categorised.
+
+  · no account, no sync, no telemetry — literally no network code
+  · one SQLite file on your own machine, and that is the whole design
+  · ⏎ pastes the clip straight back into the app you came from
+  · menu-bar only, keyboard-driven, MIT licensed
+
+$ clipark --stack
+> Tauri 2 · Rust · React · TypeScript · SQLite
+```
+
+<details>
+<summary><b>🇧🇷 sobre o ClipArk em português</b></summary>
+
+```console
+$ clipark --sobre
+> ClipArk — gerenciador de área de transferência local-first para macOS.
+
+  O macOS lembra de exatamente uma coisa que você copiou. O ClipArk guarda
+  o resto: ⌘⇧V e todo o histórico volta — buscável, tipado e categorizado.
+
+  · sem conta, sem sync, sem telemetria — nenhum código de rede
+  · um único arquivo SQLite na sua máquina, e esse é o projeto inteiro
+  · ⏎ cola o item direto no app de onde você veio
+  · só na barra de menu, movido a teclado, licença MIT
+```
+
+</details>
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/DOWNLOAD%20.DMG-0D1117?style=for-the-badge&logo=apple&logoColor=00FF41&labelColor=0D1117)](https://github.com/LucasFernandesBrazil/ClipArk/releases/latest)
+[![Source](https://img.shields.io/badge/SOURCE%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117)](https://github.com/LucasFernandesBrazil/ClipArk)
+[![Star](https://img.shields.io/badge/STAR%20THE%20REPO-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00FF41&labelColor=0D1117)](https://github.com/LucasFernandesBrazil/ClipArk/stargazers)
+
+</div>
+
+---
+
+## `02 //` CONNECT
 
 <div align="center">
 
@@ -62,7 +127,7 @@ $ tempo_ativo
 
 ---
 
-## `02 //` STACK MODULES
+## `03 //` STACK MODULES
 
 ```console
 $ ls -la /usr/lib/lucas/
@@ -131,7 +196,7 @@ drwxr-xr-x  devops/       drwxr-xr-x  testing/
 
 ---
 
-## `03 //` SYSTEM DIAGNOSTICS
+## `04 //` SYSTEM DIAGNOSTICS
 
 <div align="center">
 
@@ -144,7 +209,7 @@ drwxr-xr-x  devops/       drwxr-xr-x  testing/
 
 ---
 
-## `04 //` ACTIVITY LOG
+## `05 //` ACTIVITY LOG
 
 <div align="center">
 
