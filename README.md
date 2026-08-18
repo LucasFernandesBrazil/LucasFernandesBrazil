@@ -1,79 +1,161 @@
-# 👋 Hello, I'm Lucas!
+<div align="center">
 
-🎓 Graduated in Information Systems  
-💻 Full Stack Developer  
-🤘 Open Source Enthusiast & Community Supporter
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:003B00,100:00FF41&height=200&section=header&text=LUCAS%20FERNANDES&fontSize=44&fontColor=00FF41&fontAlignY=34&animation=fadeIn&desc=Senior%20Full%20Stack%20Developer&descAlignY=54&descSize=16" width="100%" alt="header"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%3E+booting+profile...;%3E+access+granted.+welcome%2C+visitor.;%3E+Full+Stack+Developer+%7C+TypeScript+%C2%B7+Node+%C2%B7+.NET+%C2%B7+React;%3E+open+source+enthusiast+%26+community+supporter" alt="typing"/>
 
-## 🌐 Connect with Me
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferlucasfullstack)  
-[![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucasfernandes.)  
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas@nexosolution.com)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="status"/>
+<img src="https://img.shields.io/badge/LOCATION-Brazil%20%C2%B7%20Goi%C3%A2nia-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="location"/>
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="role"/>
+<img src="https://komarev.com/ghpvc/?username=LucasFernandesBrazil&style=flat-square&color=00FF41&label=VISITORS" alt="views"/>
 
----
+</div>
 
-## 🧠 Tech Stack
+```console
+$ whoami
+> Lucas Fernandes
 
-### 👨‍💻 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white)
+$ cat ~/.profile
+  role     : Senior Full Stack Developer
+  degree   : B.Sc. Information Systems
+  focus    : scalable web apps · clean architecture · DX
+  mindset  : open source enthusiast & community supporter
+  status   : building, breaking, shipping — repeat
 
-### 🧩 Front-End
-![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+$ uptime
+> still online. still learning.
+```
 
-### ⚙️ Back-End & DevOps
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+<details>
+<summary><b>🇧🇷 versão em português — <code>$ locale set pt_BR</code></b></summary>
 
-### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
+```console
+$ quem_sou_eu
+> Lucas Fernandes
 
-### 🧪 Testing & Tools
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+$ cat ~/.perfil
+  cargo    : Desenvolvedor Full Stack Sênior
+  formação : Bacharel em Sistemas de Informação
+  foco     : aplicações web escaláveis · arquitetura limpa · DX
+  postura  : entusiasta de open source e apoiador da comunidade
+  status   : construindo, quebrando, entregando — e repetindo
+
+$ tempo_ativo
+> ainda online. ainda aprendendo.
+```
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## `01 //` CONNECT
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasFernandesBrazil&theme=dark&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFernandesBrazil&theme=dark&hide_border=false" height="180" alt="GitHub Streak"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117)](https://linkedin.com/in/ferlucasfullstack)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)](https://discord.gg/lucasfernandes.)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117)](mailto:lucas@nexosolution.com)
+
 </div>
 
 ---
 
-## 🏆 Trophies
+## `02 //` STACK MODULES
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasFernandesBrazil&theme=radical&no-frame=false&no-bg=true&margin-w=8"/>
-</p>
+```console
+$ ls -la /usr/lib/lucas/
+drwxr-xr-x  languages/    drwxr-xr-x  frontend/
+drwxr-xr-x  backend/      drwxr-xr-x  databases/
+drwxr-xr-x  devops/       drwxr-xr-x  testing/
+```
+
+<details open>
+<summary><b><code>./languages</code></b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=239120&labelColor=0D1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=0D1117)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2&labelColor=0D1117)
+
+</details>
+
+<details open>
+<summary><b><code>./frontend</code></b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D1117)
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031&labelColor=0D1117)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D&labelColor=0D1117)
+![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=flat-square&logo=svelte&logoColor=FF3E00&labelColor=0D1117)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0D1117)
+![SASS](https://img.shields.io/badge/SASS-0D1117?style=flat-square&logo=sass&logoColor=CC6699&labelColor=0D1117)
+
+</details>
+
+<details open>
+<summary><b><code>./backend</code> + <code>./devops</code></b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=0D1117)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E&labelColor=0D1117)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4&labelColor=0D1117)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0D1117?style=flat-square&logo=azuredevops&logoColor=0078D7&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117)
+
+</details>
+
+<details open>
+<summary><b><code>./databases</code> + <code>./testing</code></b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=flat-square&logo=jest&logoColor=C21325&labelColor=0D1117)
+![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=flat-square&logo=swagger&logoColor=85EA2D&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=0D1117)
+![SonarQube](https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqubeserver&logoColor=4E9BCD&labelColor=0D1117)
+
+</details>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasFernandesBrazil&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## `03 //` SYSTEM DIAGNOSTICS
+
+<div align="center">
+
+<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFernandesBrazil&theme=github_dark" alt="profile summary"/>
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFernandesBrazil&theme=github_dark" alt="stats"/>
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasFernandesBrazil&theme=github_dark&utcOffset=-3" alt="productive time"/>
+
+</div>
+
+---
+
+## `04 //` ACTIVITY LOG
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFernandesBrazil&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003B00&hide_border=true" alt="activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,55:003B00,100:000000&height=140&section=footer" width="100%" alt="footer"/>
+
+</div>
