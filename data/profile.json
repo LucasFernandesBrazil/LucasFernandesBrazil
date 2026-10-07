@@ -1,0 +1,21 @@
+{
+  "username": "lucas",
+  "rows": [
+    ["host"],
+    ["kv", "Role", "Senior Full Stack Developer"],
+    ["kv", "Degree", "B.Sc. Information Systems"],
+    ["kv", "Location", "Goiânia · Brazil"],
+    ["kv", "Focus", "Scalable web apps · Clean arch · DX"],
+    ["gap"],
+    ["sec", "Stack"],
+    ["kv", "Languages", "TypeScript, C#, Python, Java, Kotlin"],
+    ["kv", "Frontend", "React, Next.js, Angular, Vue, Tailwind"],
+    ["kv", "Backend", "Node.js, NestJS, .NET"],
+    ["kv", "Data", "PostgreSQL, MongoDB, MySQL, SQLite"],
+    ["kv", "Cloud", "Docker, AWS, Azure, Azure DevOps"],
+    ["gap"],
+    ["sec", "Now"],
+    ["bul", "Shipping ClipArk — local-first clipboard for macOS"],
+    ["bul", "Open source enthusiast & community supporter"]
+  ]
+}

@@ -1,0 +1,43 @@
+name: Profile art
+
+# Refreshes the animated contribution heatmap from real data every day.
+# (The ASCII portrait and info card are static: regenerate them locally with
+# scripts/portrait.py and scripts/info_card.py when they change.)
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/contributions.py"
+      - "scripts/svgkit.py"
+      - ".github/workflows/profile-art.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r scripts/requirements.txt
+
+      - run: python scripts/contributions.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/contributions.json assets/contrib-heatmap.svg
+          if git commit -m "chore: refresh contribution heatmap"; then
+            git pull --rebase
+            git push
+          fi
