@@ -11,16 +11,12 @@
 
 <br/><br/>
 
-<h3><code>lucas@github ~ $ whoami</code></h3>
-
 <table>
   <tr>
     <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="Lucas Fernandes as animated ASCII art"/></td>
     <td valign="top"><img src="./assets/info-card.svg" width="490" alt="neofetch-style card: Senior Full Stack Developer, B.Sc. Information Systems, Goiânia, Brazil — TypeScript, C#, React, Node.js, .NET"/></td>
   </tr>
 </table>
-
-<h3><code>lucas@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap, refreshed daily"/>
 
