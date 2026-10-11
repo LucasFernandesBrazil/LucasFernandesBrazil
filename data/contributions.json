@@ -1,37 +1,9 @@
 {
  "user": "LucasFernandesBrazil",
- "total": 4815,
+ "total": 4752,
  "current_streak": 97,
  "longest_streak": 97,
  "days": [
-  {
-   "date": "2025-10-05",
-   "count": 8
-  },
-  {
-   "date": "2025-10-06",
-   "count": 4
-  },
-  {
-   "date": "2025-10-07",
-   "count": 11
-  },
-  {
-   "date": "2025-10-08",
-   "count": 17
-  },
-  {
-   "date": "2025-10-09",
-   "count": 14
-  },
-  {
-   "date": "2025-10-10",
-   "count": 8
-  },
-  {
-   "date": "2025-10-11",
-   "count": 7
-  },
   {
    "date": "2025-10-12",
    "count": 10
@@ -1486,7 +1458,11 @@
   },
   {
    "date": "2026-10-10",
-   "count": 3
+   "count": 9
+  },
+  {
+   "date": "2026-10-11",
+   "count": 0
   }
  ]
 }
