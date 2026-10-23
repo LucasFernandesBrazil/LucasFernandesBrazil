@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="status"/>
 <img src="https://img.shields.io/badge/LOCATION-Brazil%20%C2%B7%20Goi%C3%A2nia-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="location"/>
 <img src="https://img.shields.io/badge/ROLE-Full%20Stack-0D1117?style=flat-square&labelColor=0D1117&color=00FF41" alt="role"/>
-<img src="https://komarev.com/ghpvc/?username=LucasFernandesBrazil&style=flat-square&color=00FF41&label=VISITORS" alt="views"/>
 
 <br/><br/>
 
