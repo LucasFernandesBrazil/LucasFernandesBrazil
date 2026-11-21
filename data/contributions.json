@@ -1,8 +1,8 @@
 {
  "user": "LucasFernandesBrazil",
- "total": 9766,
- "current_streak": 138,
- "longest_streak": 138,
+ "total": 9889,
+ "current_streak": 139,
+ "longest_streak": 139,
  "days": [
   {
    "date": "2025-11-16",
@@ -1482,7 +1482,11 @@
   },
   {
    "date": "2026-11-20",
-   "count": 1
+   "count": 69
+  },
+  {
+   "date": "2026-11-21",
+   "count": 55
   }
  ]
 }
